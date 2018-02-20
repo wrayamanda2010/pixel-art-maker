@@ -1,0 +1,40 @@
+body {
+  text-align: center;
+}
+
+.mainTitle {
+  font-family: Bookman, sans-serif;
+  font-size: 200%;
+  margin: 0.2em;
+  color: #690fb2;
+}
+
+.chooseTitle {
+  margin: 1em 0 0.25em;
+}
+
+table, tr, td {
+  border: 1px solid #abc;
+}
+
+table {
+  border-collapse: collapse;
+  margin: 40px auto;
+}
+
+tr {
+  height: 25px;
+}
+
+td {
+  width: 25px;
+}
+
+input[type=number] {
+  width: 3em;
+  margin-right: 10px;
+}
+
+input[type=submit] {
+  margin-right: 2em;
+}
